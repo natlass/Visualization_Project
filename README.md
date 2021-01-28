@@ -3,7 +3,7 @@ Gun violence visualization project
 
 <h1>Visualization Project Proposal
 
-<h6>Sara Edgar, Jessica Johnson, Natalie Lassen, Amanda Vital
+Sara Edgar, Jessica Johnson, Natalie Lassen, Amanda Vital
 
 
 We chose the topic of gun violence in America, comparing the number of fatalities due to shootings on the west coast (California), east coast (Pennsylvania), and south (Tennessee). 
