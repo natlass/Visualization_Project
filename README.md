@@ -1,12 +1,12 @@
 # Visualization_Project
 Gun violence visualization project
 
-<h1>Visualization Project Proposal
+<h1>Visualization Project Proposal<h1>
 
-<h6>Sara Edgar, Jessica Johnson, Natalie Lassen, Amanda Vital
+<h6>Sara Edgar, Jessica Johnson, Natalie Lassen, Amanda Vital<h6>
 
 
-<h2>We chose the topic of gun violence in America, comparing the number of fatalities due to shootings on the west coast (California), east coast (Pennsylvania), and south (Tennessee). 
+We chose the topic of gun violence in America, comparing the number of fatalities due to shootings on the west coast (California), east coast (Pennsylvania), and south (Tennessee). 
 The source of our data is:
 Kaggle https://www.kaggle.com/jameslko/gun-violence-data
 We will be using pandas to transform the dataset and put it into a MongoDB. Below is an image of the columns we will keep (highlighted) for our metadata out of the original 29. 
